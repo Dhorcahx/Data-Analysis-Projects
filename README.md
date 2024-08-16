@@ -7,7 +7,7 @@
 
 ### Introduction
 
-This is a power bi project. To help the global Superstore analyse and draw out meaningful insides for the superstore data set with the in helping management, make informed decisions to improve performance and profitability. 
+This is a power bi project to help the Global Superstore analyse and draw out meaningful insights for the superstore data set with the aim of helping management, make informed decisions to improve performance and profitability. 
 
 ### Problem Statement
 
