@@ -13,12 +13,12 @@ This is a power bi project to help the Global Superstore analyse and draw out me
 
 1. a. What are the three countries that generated the highest total profits from Global super store in 2014? b. For each of these three countries. Find the three products with the highest total profit. Specifically, what are the products’ names and the total profit of each product? 
 2. Identify the three sub categories with the highest average shipping cost In the United States.
-3. a) Assess Nigeria's profitability for 2014. How does it compare to other African countries? What factors might be responsible for Nigeria's. Poor performance 
-b) What factors might be responsible for Nigeria’s poor performance? You might want to investigate shipping costs and the average discount as potential root causes.
-4. a) Identify the product subcategory that is the least profitable in Southeast Asia. Note: For this question, assume that Southeast Asia comprises Cambodia, Indonesia, Malaysia, Myanmar (Burma), the Philippines, Singapore, Thailand, and Vietnam. b) Is there a specific country in Southeast Asia where Global Superstore should stop offering the subcategory identified in 4a?
-5. Which city is the least profitable In the United States.
-6. Which category Has the highest average profits In Australia.
-7. Who are the most valuable customers and what do they purchase? 
+3. a) Assess Nigeria's profitability for 2014. How does it compare to other African countries?
+   b) What factors might be responsible for Nigeria’s poor performance? You might want to investigate shipping costs and the average discount as potential root causes.
+5. a) Identify the product subcategory that is the least profitable in Southeast Asia. Note: For this question, assume that Southeast Asia comprises Cambodia, Indonesia, Malaysia, Myanmar (Burma), the Philippines, Singapore, Thailand, and Vietnam. b) Is there a specific country in Southeast Asia where Global Superstore should stop offering the subcategory identified in 4a?
+6. Which city is the least profitable In the United States.
+7. Which category Has the highest average profits In Australia.
+8. Who are the most valuable customers and what do they purchase? 
 
 ### Skill/Concepts Demonstrated
 
