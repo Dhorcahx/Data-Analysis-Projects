@@ -34,6 +34,7 @@ Transformed Table
 
 ### Data Sourcing
 Digitately Drive (https://docs.google.com/spreadsheets/d/1nxESpFzWjlGDMGDVLH69xmDzIl9l6OEq/edit#gid=633280281)
+Thera are 3 tables but one was used for the analysis
 
 ### Data Modelling
 
