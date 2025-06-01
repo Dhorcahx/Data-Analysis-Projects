@@ -73,7 +73,7 @@ Bar Charts -
 Provide changing but accurate results based off of values chosen in the slicers    
 
 ### Conclusion And Recommendation
-- United States, India and China were there th countries that generated the highest total profit for Global Superstore in 2014
+- United States, India and China were there top countries that generated the highest total profit for Global Superstore in 2014
 - The top 3 products sold in all 3 countries are as follows:
 - United States - Canon Image Class 2200, Hewlett-Packard Deskjet 6988DT Refurbished Printer, 3D Systems Cube Printer, 2nd Generation, Magenta with 1351
 - India - Sauder Classic Bookcase, Traditional, Cisco Smart Phone, with Caller ID, Hamilton Beach Refrigerator, Red
